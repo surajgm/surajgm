@@ -1,16 +1,22 @@
-## Hi there 👋
+### Suraj Gharti Magar
 
-<!--
-**surajgm/surajgm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack engineer in London. 4+ years building production web apps with React and TypeScript, backed by Node.js, and more recently AI agents that get real work done through MCP.
 
-Here are some ideas to get you started:
+Studying for an MSc in Data Science & AI at The University of Law. Open to part-time frontend or full-stack roles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Experience**
+
+**PortPro** — Software Engineer · 2024–2026  
+Logistics SaaS for US freight carriers. High-volume dashboards, real-time sync, Redis-cached APIs, a freight-quoting platform, and a multi-agent system that handles billing and invoicing through MCP tools.
+
+**Youth Innovation Lab** — Frontend Engineer · 2022–2024  
+BIPAD, Nepal's national disaster-information platform. Built impact-based forecasting and multi-hazard map dashboards used by government agencies.
+
+**Varosa Technology** — Frontend Intern · 2021
+
+**Stack**  
+React · TypeScript · Redux · React Query · Tailwind · Node.js · Express · Redis · PostgreSQL · MongoDB · Python · MCP
+
+Most of my work lives in private company codebases. New public projects coming soon.
+
+[LinkedIn](https://www.linkedin.com/in/suraj-gharti-magar)
